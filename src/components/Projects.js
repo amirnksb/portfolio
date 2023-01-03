@@ -14,7 +14,7 @@ export const Projects = () => {
         {
             title: "Tetris game",
             language: "Assembly Language",
-            description: "Tetris game created using assembly language x32 from scratch",
+            description: "Tetris game created using assembly language x86 ",
             imgUrl: tetris,
         },
         {
